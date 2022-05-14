@@ -20,6 +20,7 @@ To further speed up the algorithm, we can use parfor in Matlab for Parallel Comp
 
 # Parallel work code
 [Scalable Partial Multi-view Clustering with Consistent Anchor Graph](https://github.com/wangsiwei2010/SPMVC-CAG)
+
 We found initialation important for large-scale IMVC tasks. We are trying to accomplish a deep neural network for new work. Advice is welcome.
 
 # Given example 
