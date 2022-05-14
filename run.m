@@ -28,7 +28,7 @@ numname = {'_Per0.1', '_Per0.2', '_Per0.3', '_Per0.4','_Per0.5', '_Per0.6', '_Pe
 % numdata = length(dataname); % number of the test datasets
 % numname = {''};
 
-for idata = 3 : 4
+for idata = 1 : 3
     ResBest = zeros(9, 8);
     ResStd = zeros(9, 8);
     % result = [Fscore Precision Recall nmi AR Entropy ACC Purity];
