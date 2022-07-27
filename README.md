@@ -15,6 +15,8 @@ Using the 'Incomplete/randomlyGeneratePartialData.m' provided by Professor Chang
 
 Step2: run run.m
 
+Step3: Another improved version is in the /Improved version/  files.
+
 # Time
 To further speed up the algorithm, we can use parfor in Matlab for Parallel Computing while the first time run will cost some time. For large-scale tasks, it is time-saving.
 
